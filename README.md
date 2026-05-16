@@ -7,27 +7,39 @@ RunTracker is a modern Android application built with Kotlin and Jetpack Compose
 - **Personalized Dashboard**: Get a quick overview of your running stats, including total runs, total distance, best pace, and calories burned.
 - **Weekly Progress Chart**: Visualize your weekly running distance with an interactive bar chart.
 
-![img.png](images/img.png)
+<p align="center">
+  <img src="images/img.png" width="30%" />
+</p>
 
 - **Run Logging**: Manually log your runs with details like title, distance, duration, calories, and personal notes.
 
-![img_1.png](images/img_1.png)
+<p align="center">
+  <img src="images/img_1.png" width="30%" />
+</p>
 
 - **Route Planner**: Plan your future runs using the integrated OpenStreetMap (OSMDroid). Tap to add waypoints and automatically calculate the route distance.
 
-![img_3.png](images/img_3.png)
+<p align="center">
+  <img src="images/img_3.png" width="30%" />
+</p>
 
 - **Recent Activities**: Quickly view your most recent runs directly from the dashboard.
 
-![img_2.png](images/img_2.png)
+<p align="center">
+  <img src="images/img_2.png" width="30%" />
+</p>
 
 - **Secure Authentication**: User-based login and registration to keep your running data private.
 
-![img_5.png](images/img_5.png)
+<p align="center">
+  <img src="images/img_5.png" width="30%" />
+</p>
 
 - **Motivation**: Stay inspired with a dedicated motivation screen.
 
-![img_4.png](images/img_4.png)
+<p align="center">
+  <img src="images/img_4.png" width="30%" />
+</p>
 
 - **Dark Mode Support**: Styled with a sleek dark theme for better visibility and reduced eye strain.
 
